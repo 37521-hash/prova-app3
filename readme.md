@@ -1,5 +1,7 @@
 Grupo: Murilo Dias Olivera Neto, Miguel Oliveira Martins e Gabriel do Santos Custódio
 
+Link do claude: https://claude.ai/share/1a0a3975-25bb-4485-8107-30d42b93505b
+
 Respostas dissertativas:
 
 1-Por que não dá para criar um Veiculo diretamente, e por que isso faz sentido para uma locadora?
